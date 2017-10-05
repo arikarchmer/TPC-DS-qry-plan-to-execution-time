@@ -1,0 +1,52 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b967b66404e7b6d2b3584c8db72c660df6cc886449e141358a416294730878ed"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.3",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "15.5.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 15.5.0: Tue Apr 19 18:36:36 PDT 2016; root:xnu-3248.50.21~8/RELEASE_X86_64",
+            "python_full_version": "3.6.3",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pyodbc": {
+            "hashes": [
+                "sha256:cdcf70ace676287ed6f08344d5e3096fb8b30fe47829c4e039531f0f015d47bc",
+                "sha256:6f66e56ea19319fecf9f111ecb31d5cced63719ab75f46776b9af0722778401f",
+                "sha256:17e15483bed5def3860ddf35e99a2bc4478a4dc77a55bb0a256882752b971504",
+                "sha256:3bbbbbc00cce04f4957ab0f5d276d2c6645f4df44351792b6d02ab259f720f16",
+                "sha256:82efeab8a762b65b4cd616ea73f0bb65e9ff69954b4b96d231f3146cdbe38bc9",
+                "sha256:5c8da2b57dcdc7c87415bab4ed7586fbd5dd2450df362fe7d4d756b5f9f07856",
+                "sha256:01fd441ab270e02f4e70f73fa90fc0a4f1a7cce1821fc743a3c922dee37ee6d7",
+                "sha256:a6a0f8efcf960f6720d90a080fcd4440ab894c7712975aca529a1affe24bfcae",
+                "sha256:2b3d188e08955ee3930ed3c4ce851e580073ff09e656254791c5ee1f8043aaa5",
+                "sha256:5f87aaf3e1115b6257e69091f7300643d10804aa9fb73cc10442054b023f37b8",
+                "sha256:0749a49e736f588c41e674daf107c79b9532956a053a72fd396e48b28a18c99c",
+                "sha256:00e222e146ea359735bb6cdb930bc37c4fe6d39a20e9d5f3b7bb774ac83dfa28",
+                "sha256:a82892ba8d74318524efaaccaf8351d3a3b4079a07e1a758902a2b9e84529c9d"
+            ],
+            "version": "==4.0.17"
+        }
+    },
+    "develop": {}
+}
